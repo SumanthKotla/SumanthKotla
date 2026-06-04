@@ -8,7 +8,6 @@ I'm an **MS Business Analytics** student at the **University of North Texas**, p
 
 - 🎓 Pursuing my Master's in Business Analytics @ UNT
 - 🤖 Building **[Project Jarvis](https://github.com/SumanthKotla/Project_Jarvis_0.1)** — an AI Voice Assistant
-- 🌱 Currently on **F-1 STEM OPT**, working at the intersection of Data & AI
 - 🌐 Portfolio: [f1-portfoliosk42.netlify.app](https://f1-portfoliosk42.netlify.app/)
 - 💼 Open to **Data Science / ML / Analytics** roles
 
